@@ -4,3 +4,4 @@ requests
 pytesseract
 Pillow
 flask
+beautifulsoup4
