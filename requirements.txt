@@ -3,3 +3,4 @@ pydantic
 requests
 pytesseract
 Pillow
+flask
